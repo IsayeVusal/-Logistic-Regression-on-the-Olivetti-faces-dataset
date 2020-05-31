@@ -1,2 +1,6 @@
 # -Logistic-Regression-on-the-Olivetti-faces-dataset
-Along with your solution, you might have to follow the proposed procedure.  Load the Olivetti faces dataset, randomly split it into training set 90% and test set 10%.  Define a learning model using cross entropy cost function. Explain how you come up with the learning model.  Train the model on the training set and make prediction on the test set.  Report and plot accuracy on both training set and test set.  Create a Tensorboard that presents basic information such as scalars, graphs, distributions and histograms. You might check your Tensorboard at localhost:6006.
+
+Loading the Olivetti faces dataset, randomly split it into training test set. 
+Defining a learning model using cross entropy cost function.
+Training the model on the training set and make prediction on the test set. 
+Report and plot accuracy on both training set and test set.  
